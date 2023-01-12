@@ -1,0 +1,36 @@
+body{
+    background-color: #000;
+}
+
+input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input::placeholder {
+  color: #d3d3d3;
+}
+
+.submit{
+    background-color: #000;
+}
+
+.center-column{
+    width:600px;
+    margin: 20px auto;
+    padding:20px;       
+    background-color: #fff;
+}
+
+.item-row{
+    background-color: #000;
+    margin: 10px;
+    padding: 20px;
+    color: #fff;
+    font-size: 16px;
+}
+.btn-dark{
+    background-color: #000;
+}
